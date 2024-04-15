@@ -8,12 +8,12 @@ Created on Mon Apr 15 12:09:23 2024
 import streamlit as st
 
 
-st.title("PEDRO FUENTES SANTOS")
+st.title("DORANTES FERNANDEZ RUBEN")
 
-st.header("NO SE ENCUENTRA EN LA:")
+st.header("Puede solicitar sus recursos en el:")
 st.subheader("") 
 st.subheader("") 
-st.header(" BASE DE DATOS NACIONAL DE PENSIONES NO RECLAMADAS")
+st.header("Fondo de Pensiones para el Bienestar")
 st.subheader("")          
 
 st.subheader("")
